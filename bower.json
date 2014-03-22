@@ -1,0 +1,19 @@
+{
+  "name": "domer",
+  "version": "0.0.0",
+  "authors": [
+    "Nicholas Hemsley <nick.hems@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ThreeBSP": "*",
+    "threejs": "*"
+  }
+}
